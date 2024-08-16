@@ -1,0 +1,6 @@
+D:\ProyectoBIOS2023 Node and Express\PROFIB24\PROFIB24\obj\Debug\PROFIB24.njsproj.AssemblyReference.cache
+D:\ProyectoBIOS2023 Node and Express\PROFIB24\PROFIB24\obj\Debug\PROFIB24.njsproj.CoreCompileInputs.cache
+D:\ProyectoBIOS2023 Node and Express\PROFIB24\PROFIB24\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Jota\Documents\BitBucket\proyectogrado23\PROFIB24\obj\Debug\PROFIB24.njsproj.AssemblyReference.cache
+C:\Users\Jota\Documents\BitBucket\proyectogrado23\PROFIB24\obj\Debug\PROFIB24.njsproj.CoreCompileInputs.cache
+C:\Users\Jota\Documents\BitBucket\proyectogrado23\PROFIB24\bin\Microsoft.NodejsTools.WebRole.dll
